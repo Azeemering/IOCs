@@ -1,0 +1,11 @@
+##########################################################################################
+# Ryuk ransomware campaign infrastructure
+#
+# Below is a list of Internet domains registered by the Ryuk ransomware gang to
+# distribute malware and act as C2 infrastructure. This threat actor continuously
+# registers new domains that are in-turn uncovered and added to this list. Security
+# teams can primarily use the list to retrospectively uncover compromised hosts.
+
+- https://feeds.alphasoc.net/ryuk.txt
+
+##########################################################################################
