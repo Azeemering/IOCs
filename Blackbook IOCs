@@ -1,0 +1,13 @@
+#############################################################################################################
+
+blackbook is a historical (black)list of malicious domains created as part of the periodic automated heuristic 
+check (i.e. WHOIS, HTTP, etc.) of newly reported entries from public lists of malicious URLs 
+(currently CyberCrime, URLhaus, ScumBots, Benkow and ViriBack). Main goal is listing those that are/were
+malware dedicated (e.g. C&C) - thus, excluding compromised sites. 
+It is supposed to be used for detection of malware beaconing infected clients by inspection of associated 
+DNS traffic, with significant reduce of false-positives.
+
+- https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+- https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.csv
+
+#############################################################################################################
