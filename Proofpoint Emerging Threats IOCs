@@ -1,0 +1,13 @@
+################################################################################################################
+
+- https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+
+################################################################################################################
+Raw IPs for the firewall block lists. These come from:
+#
+# Spam nets identified by Spamhaus (www.spamhaus.org)
+# Top Attackers listed by DShield (www.dshield.org)
+# Abuse.ch
+
+- https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+################################################################################################################
