@@ -1,0 +1,18 @@
+#################################################################################################
+
+#
+# bitcoin_nodes_1d
+#
+# ipv4 hash:ip ipset
+#
+# [BitNodes] (https://getaddr.bitnodes.io/) Bitcoin connected 
+# nodes, globally.
+#
+# Maintainer      : BitNodes
+# Maintainer URL  : https://getaddr.bitnodes.io/
+# List source URL : https://getaddr.bitnodes.io/api/v1/snapshots/latest/
+
+
+- https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_1d.ipset
+
+#################################################################################################
