@@ -1,5 +1,9 @@
 ###########################################################################################################
 
+Collection of CTI from Australian and international honeypots covering ssh, telnet, ntp, git, redis, mssql,
+mysql, URIs, proxy, nmap scans, google dorking hosts, sip and ftp. Potential phishing domains by category
+as well as dropped domains for blocklist cleanup.
+
 IP Blocklist For SSH Bruteforce Hosts - Updated Every 30 Minutes
 
 - https://jamesbrine.com.au/iplist.txt
